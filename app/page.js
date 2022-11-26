@@ -14,12 +14,11 @@ const Page = () => (
       <GetStarted />
       <div className='gradient-04 z-0'></div>
       <WhatsNew />
-    </div>
-    
+    </div>    
     <World />
     <div class='relative'>
     <Insights />
-    <div className='gradient-05 z-0'></div>
+    <div className='gradient-04 z-0'></div>
     <Feedback />
     </div>
     <Footer />
