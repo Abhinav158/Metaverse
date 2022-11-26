@@ -25,6 +25,7 @@ npm run dev
 <br>
 This project served as an Introduction to Tailwind CSS and NextJS. Learnt about Deployment of Next Applications using Netlify. We use Framer Motion to control the animation and display the gradients of the various sections and images as and when we enter that section of the application. There are also perfectly placed media queries for satisfactory responsiveness covering almost all devices. 
 <br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/93826081/204092100-b2f77582-7d35-4fd9-8749-c68060f7c226.png)
 
