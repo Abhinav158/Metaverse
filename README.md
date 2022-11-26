@@ -12,6 +12,8 @@
 npm run dev
 ``` 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the application
+<br>
+![image](https://user-images.githubusercontent.com/93826081/204091362-0e921148-5cf4-4ea2-b1bb-651ff0d5fa90.png)
 
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
@@ -26,5 +28,5 @@ To learn more about Next.js, please use the following resources and tutorials:
 
 
 
-![image](https://user-images.githubusercontent.com/93826081/204091058-c753e8e7-c71c-42b0-944a-3a8b2a981efd.png)
+
 
